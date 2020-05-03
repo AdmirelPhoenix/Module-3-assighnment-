@@ -1,0 +1,95 @@
+body	{
+	background-color: maroon;
+	
+}
+
+
+#res-name	{
+	color: maroon;
+	margin-top: 0px;
+	font-size: 50px;
+}
+
+#top-margin-thinge	{
+	border-radius: 0;
+	color: gold;
+	background-color: gold;
+	height: 120px;
+	margin-bottom: 0px;
+	
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: lightgray;
+	color: tomato;
+}
+
+.kosher-name	{
+	color: blue;
+}
+
+h2	{	
+	text-align: center;
+	color: lightgreen;
+}
+
+/************CHICKEN SECTION STYLESSSSSSSSSSSSS************/
+
+#chicken-section	{
+	text-align: center;
+	width: 1200px;
+	margin-left: 80px;
+	background-color: aliceblue;
+	
+}
+
+.chicken-heading	{
+	font-size: 5em;
+	color: maroon;
+}
+
+
+
+/************BEEF SECTION STYLESSSSSSSSSSSSS************/
+#beef-section	{
+	text-align: center;
+	width: 1200px;
+	margin-left: 80px;
+	background-color: aliceblue;
+	
+}
+
+.beef-heading	{
+	font-size: 5em;
+	color: maroon;
+}
+
+
+/************SUSHI SECTION STYLESSSSSSSSSSSSS************/
+
+#sushi-section	{
+	text-align: center;
+	width: 1200px;
+	margin-left: 80px;
+	background-color: aliceblue;
+	
+}
+
+.sushi-heading	{
+	font-size: 5em;
+	color: maroon;
+}
+
+
+
+
+
+/********** media queries ******************/
+
+@media (min-width: 766px;)	{
+	.chicken-heading	{
+		font-size: 30em;
+
+	}
+}
